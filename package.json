@@ -1,0 +1,30 @@
+{
+  "name": "mongoose-lean-buffertype-report-v5.6.4",
+  "version": "1.0.0",
+  "description": "repro script",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DelavariMohsen/Mongoose-lean-bufferType-report-v5.6.4.git"
+  },
+  "keywords": [
+    "mongoose",
+    "v5.6.4",
+    "bug",
+    "report"
+  ],
+  "author": "Mohsen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DelavariMohsen/Mongoose-lean-bufferType-report-v5.6.4/issues"
+  },
+  "homepage": "https://github.com/DelavariMohsen/Mongoose-lean-bufferType-report-v5.6.4#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.6.4"
+  }
+}
